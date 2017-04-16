@@ -19,6 +19,7 @@ public class Javatest extends JFrame {
 		Javatest test = new Javatest();
 		test.setVisible(true);
 		System.out.println("hello");
+		System.out.println("how are you");
 	}
 	
 	public Javatest() {
