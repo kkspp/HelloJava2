@@ -18,6 +18,7 @@ public class Javatest extends JFrame {
 	public static void main(String args[]) throws IOException {
 		Javatest test = new Javatest();
 		test.setVisible(true);
+		System.out.println("hello");
 	}
 	
 	public Javatest() {
