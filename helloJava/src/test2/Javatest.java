@@ -21,6 +21,8 @@ public class Javatest extends JFrame {
 		System.out.println("hello");
 		System.out.println("how are you");
 		System.out.println("hehehe");
+		System.out.println("hohoho");
+		System.out.println("hihihi");
 	}
 	
 	public Javatest() {
