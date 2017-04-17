@@ -20,6 +20,7 @@ public class Javatest extends JFrame {
 		test.setVisible(true);
 		System.out.println("hello");
 		System.out.println("how are you");
+		System.out.println("hehehe");
 	}
 	
 	public Javatest() {
